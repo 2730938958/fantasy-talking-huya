@@ -2,9 +2,9 @@
 registry-haiyan.local.huya.com/machine-learn/fengweiyan_fantasytalking:cuda12
 
 **模型下载命令**：<br>
-pip install modelscope
-modelscope download Wan-AI/Wan2.1-I2V-14B-720P --local_dir ./models/Wan2.1-I2V-14B-720P
-modelscope download AI-ModelScope/wav2vec2-base-960h --local_dir ./models/wav2vec2-base-960h
+pip install modelscope<br>
+modelscope download Wan-AI/Wan2.1-I2V-14B-720P --local_dir ./models/Wan2.1-I2V-14B-720P<br>
+modelscope download AI-ModelScope/wav2vec2-base-960h --local_dir ./models/wav2vec2-base-960h<br>
 modelscope download amap_cvlab/FantasyTalking   fantasytalking_model.ckpt  --local_dir ./models
 
 
