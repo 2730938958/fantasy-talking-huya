@@ -1,4 +1,5 @@
-海聪镜像：registry-haiyan.local.huya.com/machine-learn/fengweiyan_fantasytalking:cuda12
+海聪镜像：
+registry-haiyan.local.huya.com/machine-learn/fengweiyan_fantasytalking:cuda12
 
 模型下载命令：
 pip install modelscope
